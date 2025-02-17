@@ -1,0 +1,1 @@
+## Simple FastApi with Strawberry GraphQL Bench
