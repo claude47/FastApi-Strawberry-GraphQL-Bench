@@ -4,6 +4,7 @@ This repository contains a simple **GraphQL** implementation built with **FastAP
 ##
 After successfully running the application,
 You can just access your running host and port with /graphQL endpoint. 
+
 eg. http://0.0.0.0:8000/graphql
 
 Then you can proceed on doing the sample requests below.
